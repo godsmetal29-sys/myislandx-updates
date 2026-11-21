@@ -1,6 +1,6 @@
 {
-  "version": "0.7.0",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.7.0.exe",
-  "sha256": "bcc37d397c8243bf4164bd4cf5ae3a308c991dbddb7ad85eb00ef0a21494c93b",
-  "notes": "Design E4 opaque sans espace vide, agenda (lien iCal), batterie des écouteurs Bluetooth"
+  "version": "0.8.0",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.8.0.exe",
+  "sha256": "8aec6ccb51e11ed27b5f348ce1252123544a5a078d0aa168ef55fbf03d6908cc",
+  "notes": "Barre du haut (page, date, heure), barre d'icônes, page Aujourd'hui, compteur de tâches, étagère en pointillés, thèmes, choix de l'écran, bienvenue, version Pro"
 }
