@@ -1,6 +1,6 @@
 {
-  "version": "0.9.1",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.9.1.exe",
-  "sha256": "9157c5d3be36a8eb1bffefa12baf8076e6066d24cdc87a89e8be735d11b70e1b",
-  "notes": "Île plus compacte (560 × 300), pages plus denses sans vide, Ne pas déranger rapide en haut"
+  "version": "0.9.2",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.9.2.exe",
+  "sha256": "af4ee6f51accb2f5a091751bd2ae1b753ab531e3a99401b17bf94f5a8a94fb73",
+  "notes": "Bonjour/Bonsoir avec ton prénom en haut de l'île ; choix et ordre des blocs de la barre du bas dans les réglages ; passer d'une page à l'autre en cliquant-glissant ou à la molette."
 }
