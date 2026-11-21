@@ -1,6 +1,6 @@
 {
-  "version": "0.4.0",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.4.0.exe",
-  "sha256": "a673f366c13b383bd0cf8ba931c057651edd6f4e37a5506d103b9627b9a62763",
-  "notes": "Mise à jour dans l'app, prières, Ramadan, deuxième horloge, météo"
+  "version": "0.5.0",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.5.0.exe",
+  "sha256": "a28b20eef59fc514110fceb4cc40667fd827c2228c18e45ca90102566375e34f",
+  "notes": "Voyants micro/caméra/écran, appel en cours, notifications WhatsApp/Gmail/Dialpad/Mobile connecté, Ne pas déranger"
 }
