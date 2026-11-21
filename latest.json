@@ -1,6 +1,6 @@
 {
-  "version": "0.5.1",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.5.1.exe",
-  "sha256": "f313c9b198751d24cb1ab92232577758af6cb2a285c960d5a14ff43c15dd542f",
-  "notes": "Horaires de prière corrigés (une heure de trop), date hégirienne, lecteur de musique toujours affiché"
+  "version": "0.6.0",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.6.0.exe",
+  "sha256": "77ff8db295854f5941eed913aeaabfc421942fc94ddf0de79df917c8f203316e",
+  "notes": "Design verre E5, taille fixe, outils (étagère, presse-papiers, captures, Pomodoro, santé, raccourcis, tâches, comptes à rebours), panneau de réglages, affichage sur secteur"
 }
