@@ -1,6 +1,6 @@
 {
-  "version": "0.8.0",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.8.0.exe",
-  "sha256": "8aec6ccb51e11ed27b5f348ce1252123544a5a078d0aa168ef55fbf03d6908cc",
-  "notes": "Barre du haut (page, date, heure), barre d'icônes, page Aujourd'hui, compteur de tâches, étagère en pointillés, thèmes, choix de l'écran, bienvenue, version Pro"
+  "version": "0.9.0",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.9.0.exe",
+  "sha256": "6eff62ef04380740aa12f1c6a040cf45cb03869b252dd1cb39464484f6529a2d",
+  "notes": "App compagnon Android : batterie, notifications, appels, faire sonner, fichiers et presse-papiers"
 }
