@@ -1,6 +1,6 @@
 {
-  "version": "0.5.0",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.5.0.exe",
-  "sha256": "a28b20eef59fc514110fceb4cc40667fd827c2228c18e45ca90102566375e34f",
-  "notes": "Voyants micro/caméra/écran, appel en cours, notifications WhatsApp/Gmail/Dialpad/Mobile connecté, Ne pas déranger"
+  "version": "0.5.1",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.5.1.exe",
+  "sha256": "f313c9b198751d24cb1ab92232577758af6cb2a285c960d5a14ff43c15dd542f",
+  "notes": "Horaires de prière corrigés (une heure de trop), date hégirienne, lecteur de musique toujours affiché"
 }
