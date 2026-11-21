@@ -1,6 +1,6 @@
 {
-  "version": "0.9.0",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.9.0.exe",
-  "sha256": "6eff62ef04380740aa12f1c6a040cf45cb03869b252dd1cb39464484f6529a2d",
-  "notes": "App compagnon Android : batterie, notifications, appels, faire sonner, fichiers et presse-papiers"
+  "version": "0.9.1",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.9.1.exe",
+  "sha256": "9157c5d3be36a8eb1bffefa12baf8076e6066d24cdc87a89e8be735d11b70e1b",
+  "notes": "Île plus compacte (560 × 300), pages plus denses sans vide, Ne pas déranger rapide en haut"
 }
