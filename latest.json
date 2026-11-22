@@ -1,6 +1,6 @@
 {
-  "version": "0.19.1",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.19.1.exe",
-  "sha256": "290436d30509845b4ff8efa79dfaa78ce917ce233492897aee24aa24b28def1b",
-  "notes": "Île au repos « Salutation + infos » : la pilule s'ajuste à son contenu, sans espace vide."
+  "version": "0.19.2",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.19.2.exe",
+  "sha256": "ad98d6e134aad030895ee81eabbbd575a4dbfcfdb30de5f2ae57e86ec183fa6a",
+  "notes": "Île au repos : icône météo alignée, infos toutes les 2 minutes, cloche avec le nombre de notifications non lues."
 }
