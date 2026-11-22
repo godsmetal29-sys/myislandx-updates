@@ -1,6 +1,6 @@
 {
-  "version": "0.16.11",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.16.11.exe",
-  "sha256": "249f4b985108d7e026801e43940f8988b467c664209b09ed9ef14140937433fe",
-  "notes": "Appel en cours sur le PC : plus de bouton Raccrocher dans l'île (durée et nom seulement)."
+  "version": "0.16.12",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.16.12.exe",
+  "sha256": "c5895b1a9686cd4917c831149e99064d777aae4b4af255ee2fb6a769bca82f60",
+  "notes": "Les nouvelles versions sont trouvées tout de suite (plus d'attente de quelques minutes). Appel en cours sans bouton Raccrocher."
 }
