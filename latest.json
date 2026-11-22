@@ -1,6 +1,6 @@
 {
-  "version": "0.16.0",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.16.0.exe",
-  "sha256": "f354d64ce96eefe71509a55510005b335615c538fb407f7c147089525fc025c7",
-  "notes": "Choix du mouvement d'ouverture (Douce par défaut, Ressort, Rapide, Élastique, Lente) ; supprimer les notifications du téléphone ; volume Musique plus fin."
+  "version": "0.16.1",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.16.1.exe",
+  "sha256": "3fa98f6485d192412cbb82881c28c8b1de159d282213ed736d17fc94a56c88e4",
+  "notes": "Appels entrants Dialpad, Slack, Teams, Zoom sur le PC : nom et numéro dans l'île, avec Refuser / Répondre."
 }
