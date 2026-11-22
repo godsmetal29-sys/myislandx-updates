@@ -1,6 +1,6 @@
 {
-  "version": "0.21.0",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.21.0.exe",
-  "sha256": "a9c510d87168c30958aef78c2c9dc1413329091901cc78004d18aab6f9b72e68",
-  "notes": "Appels manqués Dialpad : la pilule reste affichée avec le nom ou le numéro et un bouton Rappeler."
+  "version": "0.22.0",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.22.0.exe",
+  "sha256": "2acebb839229f1bf27eed0374dce8984d545da98512c683da59c109da738daf1",
+  "notes": "BLOCBOOK : rappels à faire (pilule Appeler/Ouvrir), RDV du jour et bookings à vérifier, objectif du mois avec paliers et gain, nouveau bloc BLOCBOOK"
 }
