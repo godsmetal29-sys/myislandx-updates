@@ -1,6 +1,6 @@
 {
-  "version": "0.16.4",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.16.4.exe",
-  "sha256": "0d23c57d8c5f23279c1104de2ec77796c7ad3bab74222160ef9ca8a3c30d2abc",
-  "notes": "Correctif : logo Monitask (et des apps à petite icône) de nouveau net et en grand."
+  "version": "0.16.5",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.16.5.exe",
+  "sha256": "56d5d61a1b31e545219f0204eb291f32d978ff1e70d8b6c0c3624ba51511992c",
+  "notes": "Durée d'appel affichée pour tous les appels du PC, y compris dans Chrome ou Edge (Meet, Dialpad web, Slack…)."
 }
