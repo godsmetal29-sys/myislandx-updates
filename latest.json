@@ -1,6 +1,6 @@
 {
-  "version": "0.9.2",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.9.2.exe",
-  "sha256": "af4ee6f51accb2f5a091751bd2ae1b753ab531e3a99401b17bf94f5a8a94fb73",
-  "notes": "Bonjour/Bonsoir avec ton prénom en haut de l'île ; choix et ordre des blocs de la barre du bas dans les réglages ; passer d'une page à l'autre en cliquant-glissant ou à la molette."
+  "version": "0.10.0",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.10.0.exe",
+  "sha256": "377027639997bb6e59e818a6c0b28123427b921913c0dfa558ba314ba43ecf9e",
+  "notes": "Nouveau design : île plus petite (500 × 256). Accueil « Maintenant » qui montre ce qui compte à l'instant, 4 boutons rapides au choix (Wi-Fi, Bluetooth, micro, Ne pas déranger…), son et luminosité (aussi sur les écrans externes). Nouvelles pages Musique, Prières (arc du soleil), Météo (courbe), Aujourd'hui et Tâches."
 }
