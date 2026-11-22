@@ -1,6 +1,6 @@
 {
-  "version": "0.16.8",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.16.8.exe",
-  "sha256": "4c1112389e9e1e2baeade2041d5d7c6a5e754688b87e0a6b61c94f5e05eb73e6",
-  "notes": "Logos des notifications affichés en entier, sans bords coupés."
+  "version": "0.16.9",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.16.9.exe",
+  "sha256": "98f8f115354ae397f31f84073a14488674e34e6e1da9594e43bf2fee6058d186",
+  "notes": "Appel en cours sur Dialpad (et Teams, Slack, Zoom…) : durée, nom ou numéro dans l'île, avec Raccrocher."
 }
