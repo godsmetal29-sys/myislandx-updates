@@ -1,6 +1,6 @@
 {
-  "version": "0.22.2",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.22.2.exe",
-  "sha256": "457784d58c23dba270c114a3a46302ff8f9ad5d6901e5d7df63ad99130025225",
-  "notes": "Pendant les appels : notifications cachées sur l'île (sauf autre appel), Ne pas déranger de Windows activé puis désactivé, résumé « Pendant l'appel : N notifications » au raccrochage"
+  "version": "0.23.0",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.23.0.exe",
+  "sha256": "eb8594ddcd2b7a6eb437dfafd0ee0a50e61ca17b26e99a0682711d3baac9083a",
+  "notes": "Résumé de la journée : pilule « Ta journée » à 18:00 (réglable) et bloc Ma journée (appels, BLOCBOOK, demain, tâches et notifications)"
 }
