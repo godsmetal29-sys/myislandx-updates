@@ -1,6 +1,6 @@
 {
-  "version": "0.13.0",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.13.0.exe",
-  "sha256": "03a2c303a896ca4c5005a1f74abe26cac87dccf4d2cff87eb2a67f815652329e",
-  "notes": "Affichage net (carte graphique et texte lissé comme les autres apps ; si problème : Réglages › Général › décocher « Rendu net ») ; connexion Spotify en un clic (Réglages › Musique et Spotify) ; Tâches : choix de l'heure en un clic et suppression possible."
+  "version": "0.13.1",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.13.1.exe",
+  "sha256": "6fa0e0dcc32b5cf0e5ed6da1c44ea29dfbeba964620257b8854aac9dab588cfa",
+  "notes": "Une notification de capture d'écran ouvre la capture dans l'île ; choix des apps affichées dans l'île (Réglages › Notifications)."
 }
