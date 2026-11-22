@@ -1,6 +1,6 @@
 {
-  "version": "0.16.10",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.16.10.exe",
-  "sha256": "e8eccc20f90f12ca5edb8695fc71106af22ef8b3139b62cac413379ff3e756c6",
-  "notes": "Appel en cours : le nom ou le numéro de la personne s'affiche correctement."
+  "version": "0.16.11",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.16.11.exe",
+  "sha256": "249f4b985108d7e026801e43940f8988b467c664209b09ed9ef14140937433fe",
+  "notes": "Appel en cours sur le PC : plus de bouton Raccrocher dans l'île (durée et nom seulement)."
 }
