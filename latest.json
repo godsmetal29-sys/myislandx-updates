@@ -1,6 +1,6 @@
 {
-  "version": "0.16.9",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.16.9.exe",
-  "sha256": "98f8f115354ae397f31f84073a14488674e34e6e1da9594e43bf2fee6058d186",
-  "notes": "Appel en cours sur Dialpad (et Teams, Slack, Zoom…) : durée, nom ou numéro dans l'île, avec Raccrocher."
+  "version": "0.16.10",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.16.10.exe",
+  "sha256": "e8eccc20f90f12ca5edb8695fc71106af22ef8b3139b62cac413379ff3e756c6",
+  "notes": "Appel en cours : le nom ou le numéro de la personne s'affiche correctement."
 }
