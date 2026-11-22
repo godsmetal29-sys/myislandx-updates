@@ -1,6 +1,6 @@
 {
-  "version": "0.15.4",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.15.4.exe",
-  "sha256": "1445b75f89ee2ae9e2c2dc3c4d051c28227b116a54112144dc9751fffbc58ba4",
-  "notes": "Logo des notifications sans liseré blanc, coins arrondis ; Téléphone : « Connecté » et nom du téléphone lisibles en entier."
+  "version": "0.16.0",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.16.0.exe",
+  "sha256": "f354d64ce96eefe71509a55510005b335615c538fb407f7c147089525fc025c7",
+  "notes": "Choix du mouvement d'ouverture (Douce par défaut, Ressort, Rapide, Élastique, Lente) ; supprimer les notifications du téléphone ; volume Musique plus fin."
 }
