@@ -1,6 +1,6 @@
 {
-  "version": "0.13.10",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.13.10.exe",
-  "sha256": "6a4a08ddc1eadbc99131293fa696f79d95790ee58535027bcda34753b351ad5d",
-  "notes": "Captures : « Envoyer au téléphone » marche aussi pour les captures Win+Maj+S ; logo et vrai nom des apps dans les notifications."
+  "version": "0.13.11",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.13.11.exe",
+  "sha256": "2f7a0dac8a6161e57acef9101a8e6211d8ef4d2f68edd505fb50e54960c1af2d",
+  "notes": "Texte lissé comme dans Chrome et Slack (plus fin, sans franges colorées)."
 }
