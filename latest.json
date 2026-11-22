@@ -1,6 +1,6 @@
 {
-  "version": "0.22.0",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.22.0.exe",
-  "sha256": "2acebb839229f1bf27eed0374dce8984d545da98512c683da59c109da738daf1",
-  "notes": "BLOCBOOK : rappels à faire (pilule Appeler/Ouvrir), RDV du jour et bookings à vérifier, objectif du mois avec paliers et gain, nouveau bloc BLOCBOOK"
+  "version": "0.22.1",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.22.1.exe",
+  "sha256": "ff80185020f1229d16c5fabceaa26c6fa0b4e2ee652f652ac48fef17a3d31cea",
+  "notes": "Musique en pause pendant les appels (reprise au raccrochage) avec petite note « ♪ en pause » sur la pilule d'appel ; réglage dans Général › Appels"
 }
