@@ -1,6 +1,6 @@
 {
-  "version": "0.19.0",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.19.0.exe",
-  "sha256": "1a7f5bec4c650fcca7ad4d59ee415fc83cbd05756f6606c18d3bae11116d6006",
-  "notes": "Nouveau choix « Île au repos » : Simple, ou Salutation + infos (Bonsoir, prénom · heure · météo, avec prière, tâches, rendez-vous et 2e ville 10 secondes par minute)."
+  "version": "0.19.1",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.19.1.exe",
+  "sha256": "290436d30509845b4ff8efa79dfaa78ce917ce233492897aee24aa24b28def1b",
+  "notes": "Île au repos « Salutation + infos » : la pilule s'ajuste à son contenu, sans espace vide."
 }
