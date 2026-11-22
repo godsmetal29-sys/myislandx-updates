@@ -1,6 +1,6 @@
 {
-  "version": "0.13.4",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.13.4.exe",
-  "sha256": "bc893bb149759458025e065c6fab53f143648f91c74bf917d6a5515cf3f8ee03",
-  "notes": "Connexion Spotify retirée : la musique qui joue sur le PC (Spotify, YouTube, Deezer…) s'affiche et se contrôle sans compte."
+  "version": "0.13.5",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.13.5.exe",
+  "sha256": "8a0034385276c7aca10adde3e1fb6a8f6138849a876f7d8046f19c254baafda9",
+  "notes": "Bulle de la deuxième activité retirée : une seule activité à la fois dans la pilule."
 }
