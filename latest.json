@@ -1,6 +1,6 @@
 {
-  "version": "0.13.8",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.13.8.exe",
-  "sha256": "aa5e33a01482c60f6ec92c67b4ff2f5b256c3da0bbb9c6813b9011f4487aab3d",
-  "notes": "Notifications : vrai logo de chaque app et vrai nom (plus de suite de chiffres pour Monitask et les apps classiques)."
+  "version": "0.13.9",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.13.9.exe",
+  "sha256": "f3f6e04b62fa20b990b086f34223d754f330c12a3ae0d92f0f5e149e3dc41c54",
+  "notes": "Captures : « Envoyer au téléphone » marche aussi pour les captures Win+Maj+S ; logo et vrai nom des apps dans les notifications."
 }
