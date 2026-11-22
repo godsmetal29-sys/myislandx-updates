@@ -1,6 +1,6 @@
 {
-  "version": "0.19.5",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.19.5.exe",
-  "sha256": "3d538a3ec0fa7b05cc384048ea1f26c3758b36360cd257aa8ebb7cdbd0e91784",
-  "notes": "Les pilules avec un bouton (Libérer, Ouvrir, Épingler, Afficher) ne s'ouvrent plus au survol : tu peux cliquer sur le bouton."
+  "version": "0.19.6",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.19.6.exe",
+  "sha256": "693690c93dcd33d17b1862ee4ba7b4238e60bf15e6c77451628fde61fa193000",
+  "notes": "Cloche des notifications : chiffre aligné."
 }
