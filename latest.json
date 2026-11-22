@@ -1,6 +1,6 @@
 {
-  "version": "0.16.7",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.16.7.exe",
-  "sha256": "5eb007f4bc83101249bd4195a51a214a3cd5f98c9443ed42d1682a2c3b835bba",
-  "notes": "Rappel de prière réglable ; logo Monitask à la même taille que les autres, sans cadre."
+  "version": "0.16.8",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.16.8.exe",
+  "sha256": "4c1112389e9e1e2baeade2041d5d7c6a5e754688b87e0a6b61c94f5e05eb73e6",
+  "notes": "Logos des notifications affichés en entier, sans bords coupés."
 }
