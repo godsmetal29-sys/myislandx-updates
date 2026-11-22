@@ -1,6 +1,6 @@
 {
-  "version": "0.13.5",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.13.5.exe",
-  "sha256": "8a0034385276c7aca10adde3e1fb6a8f6138849a876f7d8046f19c254baafda9",
-  "notes": "Bulle de la deuxième activité retirée : une seule activité à la fois dans la pilule."
+  "version": "0.13.6",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.13.6.exe",
+  "sha256": "645c9fb18148a412dd2b1eaf9934b3a0798ff1a61d30be807217dac69704e072",
+  "notes": "Appels WhatsApp (et autres apps d'appel) affichés avec Répondre / Raccrocher ; quand ça sonne, l'île ne s'ouvre plus au survol pour pouvoir cliquer sur les boutons. Installe aussi l'app téléphone 0.2.3."
 }
