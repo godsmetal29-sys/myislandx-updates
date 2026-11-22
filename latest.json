@@ -1,6 +1,6 @@
 {
-  "version": "0.20.7",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.20.7.exe",
-  "sha256": "8cc33279826b6716af367035ec4feb5273f84884547c93322614631d0a7ced11",
-  "notes": "Appels Dialpad : passage à la durée dès que Dialpad affiche le temps d'appel."
+  "version": "0.20.8",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.20.8.exe",
+  "sha256": "69004234f5780a46b8fa7f2a335b4713e032e0baf4781837352bbb018af69284",
+  "notes": "Correctif : l'affichage d'appel en cours (onde + durée) ne plante plus après le premier appel."
 }
