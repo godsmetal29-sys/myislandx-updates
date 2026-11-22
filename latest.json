@@ -1,6 +1,6 @@
 {
-  "version": "0.15.2",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.15.2.exe",
-  "sha256": "6329a58d8a5dc44ce411fdfdfb26de837f1a3d630e2d0e3f7a2c13c18c4fce34",
-  "notes": "Notifications : l'icône est prise directement dans le programme de l'app quand Windows ne la donne pas (Monitask…)."
+  "version": "0.15.3",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.15.3.exe",
+  "sha256": "6eeb682bf1821cba7d2149d13e104ac5c3879298866356d78634f527e592b57a",
+  "notes": "Étagère en une seule zone : vide, toute la page sert à déposer ; avec des fichiers, la liste prend toute la place."
 }
