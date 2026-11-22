@@ -1,6 +1,6 @@
 {
-  "version": "0.16.2",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.16.2.exe",
-  "sha256": "2b3628d2c0a7c06e1f3ee90b5e0a32ef6e8f686765cdab96eb230f89e8c18815",
-  "notes": "Logos des notifications en grand, sans fond bleu (Slack, Capture…)."
+  "version": "0.16.3",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.16.3.exe",
+  "sha256": "5f52c67cab9ffaa65952d6d06ea4959f82c8caa7f38450d2df39b91ae0795cb4",
+  "notes": "Logos des notifications en haute définition ; nouvelle Météo avec les 5 prochaines heures et un ciel qui suit le temps."
 }
