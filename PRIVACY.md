@@ -1,6 +1,6 @@
 # Politique de confidentialité de MyIslandX
 
-*Dernière mise à jour : 21 novembre 2026*
+*Dernière mise à jour : 22 novembre 2026*
 
 MyIslandX est une application Windows qui affiche des informations en haut de l'écran (musique, notifications, prières, météo, agenda…).
 **Elle n'a pas de compte utilisateur, n'utilise aucun outil de publicité ni de statistiques, et ne vend aucune donnée.**
@@ -26,6 +26,7 @@ L'application lit, **sans jamais les envoyer** :
 | --- | --- | --- |
 | MET Norway (api.met.no) | Position arrondie à environ 1 km | Météo |
 | Tes agendas (Google, Outlook, iCloud…) | Rien, l'application télécharge seulement le lien iCal que tu as fourni | Afficher tes événements |
+| Google Agenda (connexion Google, si tu l'actives) | Ton jeton de connexion ; l'application lit tes événements et ajoute ceux que tu crées depuis l'île | Afficher et ajouter des événements. Le jeton est chiffré par Windows sur ton PC, jamais envoyé ailleurs. Tu peux te déconnecter à tout moment dans les réglages ou sur myaccount.google.com/permissions |
 | Microsoft Store | Géré par Microsoft | Achat de la version Pro, mises à jour |
 | Ton téléphone Android (app compagnon) | Notifications, batterie, appels, fichiers et textes que tu choisis d'envoyer | Liaison PC-téléphone, **uniquement sur ton réseau local** |
 
