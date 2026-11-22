@@ -1,6 +1,6 @@
 {
-  "version": "0.16.6",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.16.6.exe",
-  "sha256": "2e89ffefa653b7d728972c5cd19f6862bbd73fac63cc0edf82cae208cf2be6d8",
-  "notes": "Prières : choisis quand l'île annonce la prochaine prière (5 à 60 min avant, ou jamais) et le son à l'heure de la prière."
+  "version": "0.16.7",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.16.7.exe",
+  "sha256": "5eb007f4bc83101249bd4195a51a214a3cd5f98c9443ed42d1682a2c3b835bba",
+  "notes": "Rappel de prière réglable ; logo Monitask à la même taille que les autres, sans cadre."
 }
