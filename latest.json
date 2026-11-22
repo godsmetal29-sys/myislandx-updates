@@ -1,6 +1,6 @@
 {
-  "version": "0.20.1",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.20.1.exe",
-  "sha256": "1751d1bbb5f7cd61b61ee4a6934854a38948378156c667b77757a30abe5a953a",
-  "notes": "Appels toujours en premier dans l'île (devant les notifications) ; appel sortant Dialpad affiché dès « Calling… », la durée part quand la personne décroche."
+  "version": "0.20.2",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.20.2.exe",
+  "sha256": "b935a9473569a795b3aa71a868190fcb3a8c4e1306eb5086797f83b377be1b28",
+  "notes": "Appels Dialpad : la durée démarre dès que la personne décroche, et le numéro s'affiche pendant « Calling… »."
 }
