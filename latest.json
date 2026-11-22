@@ -1,6 +1,6 @@
 {
-  "version": "0.20.3",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.20.3.exe",
-  "sha256": "358f970529abd3a22c6586ee50e9e27d6aa9a8aa9ca91d55eedd76809a639918",
-  "notes": "Île au repos : la cloche des notifications non lues passe dans la rotation, la météo reste affichée."
+  "version": "0.20.4",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.20.4.exe",
+  "sha256": "c9324124f4eb91c47c0edcc338bedf61d507b200143d5cacae811a59505afd32",
+  "notes": "Appels Dialpad : passage de « Appel… » à la durée plus fiable."
 }
