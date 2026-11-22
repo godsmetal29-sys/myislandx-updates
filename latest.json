@@ -1,6 +1,6 @@
 {
-  "version": "0.13.11",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.13.11.exe",
-  "sha256": "2f7a0dac8a6161e57acef9101a8e6211d8ef4d2f68edd505fb50e54960c1af2d",
-  "notes": "Texte lissé comme dans Chrome et Slack (plus fin, sans franges colorées)."
+  "version": "0.14.0",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.14.0.exe",
+  "sha256": "3f192851839aa401076baa53f7edccd409383f8d7b629b8e4b5700c359d54239",
+  "notes": "Taille de l'île réglable (Compacte / Normale / Grande, dans Réglages › Général) : plus grande par défaut, texte plus lisible et toujours net."
 }
