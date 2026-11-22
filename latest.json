@@ -1,6 +1,6 @@
 {
-  "version": "0.13.1",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.13.1.exe",
-  "sha256": "6fa0e0dcc32b5cf0e5ed6da1c44ea29dfbeba964620257b8854aac9dab588cfa",
-  "notes": "Une notification de capture d'écran ouvre la capture dans l'île ; choix des apps affichées dans l'île (Réglages › Notifications)."
+  "version": "0.13.2",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.13.2.exe",
+  "sha256": "efff03d0f8c50c07ee8b7ce8b015680fea6aa789af3a63641d83b3628cae79fd",
+  "notes": "Spotify : titre, pochette et commandes directement depuis ton compte (même si la musique joue sur le téléphone) ; police de Windows (Segoe UI) et texte lissé ClearType pour un affichage plus net."
 }
