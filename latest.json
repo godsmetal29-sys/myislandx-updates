@@ -1,6 +1,6 @@
 {
-  "version": "0.16.12",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.16.12.exe",
-  "sha256": "c5895b1a9686cd4917c831149e99064d777aae4b4af255ee2fb6a769bca82f60",
-  "notes": "Les nouvelles versions sont trouvées tout de suite (plus d'attente de quelques minutes). Appel en cours sans bouton Raccrocher."
+  "version": "0.17.0",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.17.0.exe",
+  "sha256": "43be700f14d46dcf295ed60b6fc41c0f189d238e6a99c90a9fde3ca4c3ef2e82",
+  "notes": "Nouvel affichage des appels du PC : point vert, nom et numéro ; en appel, onde qui bouge avec la voix et durée."
 }
