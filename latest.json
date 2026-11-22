@@ -1,6 +1,6 @@
 {
-  "version": "0.15.1",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.15.1.exe",
-  "sha256": "254c935afff337d2cd0bd21ad8e75cc046823bb5bbda985efb94b60c51d67604",
-  "notes": "Logo des apps dans les notifications (Monitask…), « Tout effacer » dans les notifications, volume Musique plus fin, icônes Météo, boutons Étagère centrés, Outils sans petits numéros."
+  "version": "0.15.2",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.15.2.exe",
+  "sha256": "6329a58d8a5dc44ce411fdfdfb26de837f1a3d630e2d0e3f7a2c13c18c4fce34",
+  "notes": "Notifications : l'icône est prise directement dans le programme de l'app quand Windows ne la donne pas (Monitask…)."
 }
