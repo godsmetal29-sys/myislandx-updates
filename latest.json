@@ -1,6 +1,6 @@
 {
-  "version": "0.20.0",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.20.0.exe",
-  "sha256": "9307e708886f4dc75cc86a85583849cc5c7bb4ec3ce14c8fca899e1e0a330a61",
-  "notes": "Nouveau bloc Tiroir : Étagère, Captures et Presse-papiers réunis, avec des onglets en haut pour passer de l'un à l'autre."
+  "version": "0.20.1",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.20.1.exe",
+  "sha256": "1751d1bbb5f7cd61b61ee4a6934854a38948378156c667b77757a30abe5a953a",
+  "notes": "Appels toujours en premier dans l'île (devant les notifications) ; appel sortant Dialpad affiché dès « Calling… », la durée part quand la personne décroche."
 }
