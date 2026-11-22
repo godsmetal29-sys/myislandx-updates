@@ -1,6 +1,6 @@
 {
-  "version": "0.11.0",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.11.0.exe",
-  "sha256": "8bd01b1621c53ac810e0a77cf3cd51859f2e3bb82d0c9c18a9241f3693513a89",
-  "notes": "Les 20 blocs redessinés : accueil avec gros curseurs son/luminosité et 4 boutons ronds ; Aujourd'hui en frise ; musique vinyle ; prières avec qibla ; météo avec vent, humidité, lever du soleil et demain ; tâche en vedette ; minuteur à anneau ; outils avec recherche qui calcule ; notifications avec réponse rapide ; agenda par jour ; statistiques Pomodoro ; étagère ; presse-papiers avec filtres et épingles ; captures ; comptes à rebours ; calculatrice avec historique et convertisseur (devises, longueur, poids, température) ; anneaux santé ; raccourcis ; téléphone avec messages et appels ; micro et caméra."
+  "version": "0.12.0",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.12.0.exe",
+  "sha256": "782e7e31cadc1e627c92b2001d42def22070891a10d14789104f5644a92dc10b",
+  "notes": "Texte plus net et police Inter ; deuxième activité dans une bulle à côté de la pilule ; ouverture à ressort ; chronomètre ; anneau de progression pour les envois au téléphone ; voyant d'enregistrement ; connexion Spotify (Réglages › Musique et Spotify) ; aide pour les notifications du téléphone et le pare-feu ; prières retirées de la frise Aujourd'hui ; corrections de plantages."
 }
