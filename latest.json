@@ -1,6 +1,6 @@
 {
-  "version": "0.13.2",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.13.2.exe",
-  "sha256": "efff03d0f8c50c07ee8b7ce8b015680fea6aa789af3a63641d83b3628cae79fd",
-  "notes": "Spotify : titre, pochette et commandes directement depuis ton compte (même si la musique joue sur le téléphone) ; police de Windows (Segoe UI) et texte lissé ClearType pour un affichage plus net."
+  "version": "0.13.3",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.13.3.exe",
+  "sha256": "36d149eb76066f75c886ea5689aec01e83f733c5369ac8af6044f7baf6bf0c5e",
+  "notes": "Spotify sans app installée : ▶ ouvre open.spotify.com dans le navigateur ; l'île pilote la musique qui joue sur le téléphone ou le navigateur."
 }
