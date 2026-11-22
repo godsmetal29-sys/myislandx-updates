@@ -1,6 +1,6 @@
 {
-  "version": "0.23.0",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.23.0.exe",
-  "sha256": "eb8594ddcd2b7a6eb437dfafd0ee0a50e61ca17b26e99a0682711d3baac9083a",
-  "notes": "Résumé de la journée : pilule « Ta journée » à 18:00 (réglable) et bloc Ma journée (appels, BLOCBOOK, demain, tâches et notifications)"
+  "version": "0.23.1",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.23.1.exe",
+  "sha256": "a45c50e35ef9b859924f391f13aeb466beb22a55c8dd82863ece1e003355535d",
+  "notes": "Google Agenda : connexion Google (lecture de tous tes agendas cochés), rappel 10 min avant"
 }
