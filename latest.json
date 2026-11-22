@@ -1,6 +1,6 @@
 {
-  "version": "0.13.3",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.13.3.exe",
-  "sha256": "36d149eb76066f75c886ea5689aec01e83f733c5369ac8af6044f7baf6bf0c5e",
-  "notes": "Spotify sans app installée : ▶ ouvre open.spotify.com dans le navigateur ; l'île pilote la musique qui joue sur le téléphone ou le navigateur."
+  "version": "0.13.4",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.13.4.exe",
+  "sha256": "bc893bb149759458025e065c6fab53f143648f91c74bf917d6a5515cf3f8ee03",
+  "notes": "Connexion Spotify retirée : la musique qui joue sur le PC (Spotify, YouTube, Deezer…) s'affiche et se contrôle sans compte."
 }
