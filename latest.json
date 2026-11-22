@@ -1,6 +1,6 @@
 {
-  "version": "0.19.4",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.19.4.exe",
-  "sha256": "2193054cdf9cd64c7d8c02e6e5bf4a57206d4ccae4a2955862e77861566569b3",
-  "notes": "Notifications non lues : cloche et chiffre en orange."
+  "version": "0.19.5",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.19.5.exe",
+  "sha256": "3d538a3ec0fa7b05cc384048ea1f26c3758b36360cd257aa8ebb7cdbd0e91784",
+  "notes": "Les pilules avec un bouton (Libérer, Ouvrir, Épingler, Afficher) ne s'ouvrent plus au survol : tu peux cliquer sur le bouton."
 }
