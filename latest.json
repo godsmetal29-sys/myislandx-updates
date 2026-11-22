@@ -1,6 +1,6 @@
 {
-  "version": "0.20.2",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.20.2.exe",
-  "sha256": "b935a9473569a795b3aa71a868190fcb3a8c4e1306eb5086797f83b377be1b28",
-  "notes": "Appels Dialpad : la durée démarre dès que la personne décroche, et le numéro s'affiche pendant « Calling… »."
+  "version": "0.20.3",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.20.3.exe",
+  "sha256": "358f970529abd3a22c6586ee50e9e27d6aa9a8aa9ca91d55eedd76809a639918",
+  "notes": "Île au repos : la cloche des notifications non lues passe dans la rotation, la météo reste affichée."
 }
