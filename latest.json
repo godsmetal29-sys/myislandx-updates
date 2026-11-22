@@ -1,6 +1,6 @@
 {
-  "version": "0.19.3",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.19.3.exe",
-  "sha256": "c679359e9a70ba2a0e63aa0fde08b69a381d96aff31f5d85fd82e03a46b739af",
-  "notes": "Notifications : la réponse rapide est rangée proprement, le clavier va bien dans la case, boutons lisibles."
+  "version": "0.19.4",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.19.4.exe",
+  "sha256": "2193054cdf9cd64c7d8c02e6e5bf4a57206d4ccae4a2955862e77861566569b3",
+  "notes": "Notifications non lues : cloche et chiffre en orange."
 }
