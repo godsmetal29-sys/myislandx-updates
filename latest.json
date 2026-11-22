@@ -1,6 +1,6 @@
 {
-  "version": "0.22.1",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.22.1.exe",
-  "sha256": "ff80185020f1229d16c5fabceaa26c6fa0b4e2ee652f652ac48fef17a3d31cea",
-  "notes": "Musique en pause pendant les appels (reprise au raccrochage) avec petite note « ♪ en pause » sur la pilule d'appel ; réglage dans Général › Appels"
+  "version": "0.22.2",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.22.2.exe",
+  "sha256": "457784d58c23dba270c114a3a46302ff8f9ad5d6901e5d7df63ad99130025225",
+  "notes": "Pendant les appels : notifications cachées sur l'île (sauf autre appel), Ne pas déranger de Windows activé puis désactivé, résumé « Pendant l'appel : N notifications » au raccrochage"
 }
