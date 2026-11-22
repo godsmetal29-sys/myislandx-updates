@@ -1,6 +1,6 @@
 {
-  "version": "0.18.0",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.18.0.exe",
-  "sha256": "0c491e55bf9200e36130f8abeadbc2318962a5435135eaa1c212628d5e7771f5",
-  "notes": "Nouveaux affichages de l'île fermée : texte copié, téléchargement terminé, clé USB, partage d'écran, casque Bluetooth, Ne pas déranger, Wi-Fi, disque presque plein."
+  "version": "0.19.0",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.19.0.exe",
+  "sha256": "1a7f5bec4c650fcca7ad4d59ee415fc83cbd05756f6606c18d3bae11116d6006",
+  "notes": "Nouveau choix « Île au repos » : Simple, ou Salutation + infos (Bonsoir, prénom · heure · météo, avec prière, tâches, rendez-vous et 2e ville 10 secondes par minute)."
 }
