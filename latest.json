@@ -1,6 +1,6 @@
 {
-  "version": "0.17.0",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.17.0.exe",
-  "sha256": "43be700f14d46dcf295ed60b6fc41c0f189d238e6a99c90a9fde3ca4c3ef2e82",
-  "notes": "Nouvel affichage des appels du PC : point vert, nom et numéro ; en appel, onde qui bouge avec la voix et durée."
+  "version": "0.18.0",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.18.0.exe",
+  "sha256": "0c491e55bf9200e36130f8abeadbc2318962a5435135eaa1c212628d5e7771f5",
+  "notes": "Nouveaux affichages de l'île fermée : texte copié, téléchargement terminé, clé USB, partage d'écran, casque Bluetooth, Ne pas déranger, Wi-Fi, disque presque plein."
 }
