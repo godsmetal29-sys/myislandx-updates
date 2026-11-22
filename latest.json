@@ -1,6 +1,6 @@
 {
-  "version": "0.20.4",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.20.4.exe",
-  "sha256": "c9324124f4eb91c47c0edcc338bedf61d507b200143d5cacae811a59505afd32",
-  "notes": "Appels Dialpad : passage de « Appel… » à la durée plus fiable."
+  "version": "0.20.5",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.20.5.exe",
+  "sha256": "d8a0a7b982b4ba82b77f8e4f54fb3c59760596db1467684e10207d269306af5f",
+  "notes": "Appels Dialpad : l'île voit que la personne a décroché grâce à la durée affichée dans Dialpad."
 }
