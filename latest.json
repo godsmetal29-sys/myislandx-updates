@@ -1,6 +1,6 @@
 {
-  "version": "0.15.0",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.15.0.exe",
-  "sha256": "83da3fcceb19ab347573d47f133d86cd2d28f825a0e9a1f851143669b1f08a1c",
-  "notes": "Nouveau style lisible sur tous les blocs : gros chiffres, texte plus grand, icônes en couleur. Accueil avec luminosité + son, Musique avec volume vertical, Étagère avec envoi au téléphone."
+  "version": "0.15.1",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.15.1.exe",
+  "sha256": "254c935afff337d2cd0bd21ad8e75cc046823bb5bbda985efb94b60c51d67604",
+  "notes": "Logo des apps dans les notifications (Monitask…), « Tout effacer » dans les notifications, volume Musique plus fin, icônes Météo, boutons Étagère centrés, Outils sans petits numéros."
 }
