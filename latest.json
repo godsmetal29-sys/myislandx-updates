@@ -1,6 +1,6 @@
 {
-  "version": "0.20.10",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.20.10.exe",
-  "sha256": "7a4e4f6218fe02c81dec8e2f1e291b22c01c76ea8efb0b831dc1274f7bee8e54",
-  "notes": "Outils : un module décoché dans Réglages (Pomodoro, Santé, Minuteur, Agenda) disparaît aussi des Outils."
+  "version": "0.21.0",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.21.0.exe",
+  "sha256": "a9c510d87168c30958aef78c2c9dc1413329091901cc78004d18aab6f9b72e68",
+  "notes": "Appels manqués Dialpad : la pilule reste affichée avec le nom ou le numéro et un bouton Rappeler."
 }
