@@ -28,7 +28,6 @@ L'application lit, **sans jamais les envoyer** :
 | Tes agendas (Google, Outlook, iCloud…) | Rien, l'application télécharge seulement le lien iCal que tu as fourni | Afficher tes événements |
 | Google Agenda (connexion Google, si tu l'actives) | Ton jeton de connexion ; l'application lit tes événements et ajoute ceux que tu crées depuis l'île | Afficher et ajouter des événements. Le jeton est chiffré par Windows sur ton PC, jamais envoyé ailleurs. Tu peux te déconnecter à tout moment dans les réglages ou sur myaccount.google.com/permissions |
 | Microsoft Store | Géré par Microsoft | Achat de la version Pro, mises à jour |
-| Ton téléphone Android (app compagnon) | Notifications, batterie, appels, fichiers et textes que tu choisis d'envoyer | Liaison PC-téléphone, **uniquement sur ton réseau local** |
 
 Les horaires de prière sont calculés sur ton PC, sans connexion.
 La position vient de Windows (si tu l'autorises) ou de la ville que tu choisis.
