@@ -1,6 +1,6 @@
 {
-  "version": "0.12.1",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.12.1.exe",
-  "sha256": "7cf29ba0cb546b54dd095c8fcdfb5b09106fc03625c91948ce1f1afe57aa2a55",
-  "notes": "Boutons bien ronds ; « Répondre » seulement pour les messageries ; le ✕ supprime une seule notification ; envoi de fichiers au téléphone refait (par morceaux, glisser-déposer sur la page Téléphone, fenêtre de choix au premier plan). Installe aussi l'app téléphone 0.2.1."
+  "version": "0.13.0",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.13.0.exe",
+  "sha256": "03a2c303a896ca4c5005a1f74abe26cac87dccf4d2cff87eb2a67f815652329e",
+  "notes": "Affichage net (carte graphique et texte lissé comme les autres apps ; si problème : Réglages › Général › décocher « Rendu net ») ; connexion Spotify en un clic (Réglages › Musique et Spotify) ; Tâches : choix de l'heure en un clic et suppression possible."
 }
