@@ -1,6 +1,6 @@
 {
-  "version": "0.13.7",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.13.7.exe",
-  "sha256": "9c32c6ce40dcf201927f54fe6842186ee5f985ff41e8b335c48bbefa864b449b",
-  "notes": "Page Téléphone en 4 tuiles (batterie, notifications, appels, glisser un fichier) ; appels Slack / Teams / Zoom reconnus ; l'île ne s'ouvre plus au survol pendant un appel entrant sur le PC."
+  "version": "0.13.8",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.13.8.exe",
+  "sha256": "aa5e33a01482c60f6ec92c67b4ff2f5b256c3da0bbb9c6813b9011f4487aab3d",
+  "notes": "Notifications : vrai logo de chaque app et vrai nom (plus de suite de chiffres pour Monitask et les apps classiques)."
 }
