@@ -1,6 +1,6 @@
 {
-  "version": "0.14.0",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.14.0.exe",
-  "sha256": "3f192851839aa401076baa53f7edccd409383f8d7b629b8e4b5700c359d54239",
-  "notes": "Taille de l'île réglable (Compacte / Normale / Grande, dans Réglages › Général) : plus grande par défaut, texte plus lisible et toujours net."
+  "version": "0.14.1",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.14.1.exe",
+  "sha256": "35aa15c7dbefaab1ffe86c46af5ef4ad04fc63551db1991bf5a8ca1d578a7196",
+  "notes": "Notifications : vrai nom et vrai logo des apps classiques (Monitask…), plus de code {…} illisible."
 }
