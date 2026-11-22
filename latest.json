@@ -1,6 +1,6 @@
 {
-  "version": "0.20.8",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.20.8.exe",
-  "sha256": "69004234f5780a46b8fa7f2a335b4713e032e0baf4781837352bbb018af69284",
-  "notes": "Correctif : l'affichage d'appel en cours (onde + durée) ne plante plus après le premier appel."
+  "version": "0.20.9",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.20.9.exe",
+  "sha256": "cf5d5cec1649fe897b56246b190b2ccb14b6b3276388740626140907a7f4b03a",
+  "notes": "Outils : les blocs déjà dans la barre du bas ne sont plus en double."
 }
