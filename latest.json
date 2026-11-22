@@ -1,6 +1,6 @@
 {
-  "version": "0.20.6",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.20.6.exe",
-  "sha256": "98f45eebdbfdc98bf7f8f59afabf97ee327cb86f800e8eb0cd52f32a8b018a0b",
-  "notes": "Appels Dialpad : lecture plus complète de la barre d'appel (nom, durée, boutons)."
+  "version": "0.20.7",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.20.7.exe",
+  "sha256": "8cc33279826b6716af367035ec4feb5273f84884547c93322614631d0a7ced11",
+  "notes": "Appels Dialpad : passage à la durée dès que Dialpad affiche le temps d'appel."
 }
