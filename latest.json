@@ -1,6 +1,6 @@
 {
-  "version": "0.13.6",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.13.6.exe",
-  "sha256": "645c9fb18148a412dd2b1eaf9934b3a0798ff1a61d30be807217dac69704e072",
-  "notes": "Appels WhatsApp (et autres apps d'appel) affichés avec Répondre / Raccrocher ; quand ça sonne, l'île ne s'ouvre plus au survol pour pouvoir cliquer sur les boutons. Installe aussi l'app téléphone 0.2.3."
+  "version": "0.13.7",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.13.7.exe",
+  "sha256": "9c32c6ce40dcf201927f54fe6842186ee5f985ff41e8b335c48bbefa864b449b",
+  "notes": "Page Téléphone en 4 tuiles (batterie, notifications, appels, glisser un fichier) ; appels Slack / Teams / Zoom reconnus ; l'île ne s'ouvre plus au survol pendant un appel entrant sur le PC."
 }
