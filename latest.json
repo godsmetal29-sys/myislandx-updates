@@ -1,6 +1,6 @@
 {
-  "version": "0.20.9",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.20.9.exe",
-  "sha256": "cf5d5cec1649fe897b56246b190b2ccb14b6b3276388740626140907a7f4b03a",
-  "notes": "Outils : les blocs déjà dans la barre du bas ne sont plus en double."
+  "version": "0.20.10",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.20.10.exe",
+  "sha256": "7a4e4f6218fe02c81dec8e2f1e291b22c01c76ea8efb0b831dc1274f7bee8e54",
+  "notes": "Outils : un module décoché dans Réglages (Pomodoro, Santé, Minuteur, Agenda) disparaît aussi des Outils."
 }
