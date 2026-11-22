@@ -1,6 +1,6 @@
 {
-  "version": "0.10.1",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.10.1.exe",
-  "sha256": "bad4eb5251ee9c097a8267304d4c19574d31c2af55aa73cf2c966813b77475eb",
-  "notes": "Accueil : les 4 boutons rapides ne sont plus coupés."
+  "version": "0.11.0",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.11.0.exe",
+  "sha256": "8bd01b1621c53ac810e0a77cf3cd51859f2e3bb82d0c9c18a9241f3693513a89",
+  "notes": "Les 20 blocs redessinés : accueil avec gros curseurs son/luminosité et 4 boutons ronds ; Aujourd'hui en frise ; musique vinyle ; prières avec qibla ; météo avec vent, humidité, lever du soleil et demain ; tâche en vedette ; minuteur à anneau ; outils avec recherche qui calcule ; notifications avec réponse rapide ; agenda par jour ; statistiques Pomodoro ; étagère ; presse-papiers avec filtres et épingles ; captures ; comptes à rebours ; calculatrice avec historique et convertisseur (devises, longueur, poids, température) ; anneaux santé ; raccourcis ; téléphone avec messages et appels ; micro et caméra."
 }
