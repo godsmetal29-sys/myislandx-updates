@@ -1,6 +1,6 @@
 {
-  "version": "0.16.5",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.16.5.exe",
-  "sha256": "56d5d61a1b31e545219f0204eb291f32d978ff1e70d8b6c0c3624ba51511992c",
-  "notes": "Durée d'appel affichée pour tous les appels du PC, y compris dans Chrome ou Edge (Meet, Dialpad web, Slack…)."
+  "version": "0.16.6",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.16.6.exe",
+  "sha256": "2e89ffefa653b7d728972c5cd19f6862bbd73fac63cc0edf82cae208cf2be6d8",
+  "notes": "Prières : choisis quand l'île annonce la prochaine prière (5 à 60 min avant, ou jamais) et le son à l'heure de la prière."
 }
