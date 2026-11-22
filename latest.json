@@ -1,6 +1,6 @@
 {
-  "version": "0.19.2",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.19.2.exe",
-  "sha256": "ad98d6e134aad030895ee81eabbbd575a4dbfcfdb30de5f2ae57e86ec183fa6a",
-  "notes": "Île au repos : icône météo alignée, infos toutes les 2 minutes, cloche avec le nombre de notifications non lues."
+  "version": "0.19.3",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.19.3.exe",
+  "sha256": "c679359e9a70ba2a0e63aa0fde08b69a381d96aff31f5d85fd82e03a46b739af",
+  "notes": "Notifications : la réponse rapide est rangée proprement, le clavier va bien dans la case, boutons lisibles."
 }
