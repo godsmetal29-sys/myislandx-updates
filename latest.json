@@ -1,6 +1,6 @@
 {
-  "version": "0.10.0",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.10.0.exe",
-  "sha256": "377027639997bb6e59e818a6c0b28123427b921913c0dfa558ba314ba43ecf9e",
-  "notes": "Nouveau design : île plus petite (500 × 256). Accueil « Maintenant » qui montre ce qui compte à l'instant, 4 boutons rapides au choix (Wi-Fi, Bluetooth, micro, Ne pas déranger…), son et luminosité (aussi sur les écrans externes). Nouvelles pages Musique, Prières (arc du soleil), Météo (courbe), Aujourd'hui et Tâches."
+  "version": "0.10.1",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.10.1.exe",
+  "sha256": "bad4eb5251ee9c097a8267304d4c19574d31c2af55aa73cf2c966813b77475eb",
+  "notes": "Accueil : les 4 boutons rapides ne sont plus coupés."
 }
