@@ -1,6 +1,6 @@
 {
-  "version": "0.25.4",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.25.4.exe",
-  "sha256": "81bbc8ac6f254ad1f310b9ca7bfa662b57ec3e1a56c6b8ec2ea3378abfd01441",
-  "notes": "Téléphone : boutons Ne pas déranger / sourdine / musique / audio comme dans Lien avec Windows, lecture du nom et de la batterie améliorée, bouton Téléphone possible dans l'accueil"
+  "version": "0.25.5",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.25.5.exe",
+  "sha256": "b756ab78acf48cdd1f2f3c2ae8d6e2798d158cb745c713fbeb49fe8bf6013794",
+  "notes": "Ouvrir : la bonne app ou le bon fichier (plus le dossier Documents) ; boutons du téléphone exécutés sans ouvrir Lien avec Windows"
 }
