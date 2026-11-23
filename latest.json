@@ -1,6 +1,6 @@
 {
-  "version": "0.24.5",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.24.5.exe",
-  "sha256": "157d370de66338bce2ad2b80a679e1f8a0d3317821f87f5ae6b430fe0e0cf7d0",
-  "notes": "Aujourd'hui et Ma journée fusionnés : un bloc Aujourd'hui avec onglets Maintenant / Bilan (Bilan tout seul après 18:00)"
+  "version": "0.24.6",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.24.6.exe",
+  "sha256": "5721cf83611e83f932e812f0080aa75d03e78e66e7570117fb7c24f82f16076b",
+  "notes": "Résumé de la journée : heure au choix de 12:00 à 23:30"
 }
