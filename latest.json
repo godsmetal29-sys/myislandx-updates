@@ -1,6 +1,6 @@
 {
-  "version": "0.26.0",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.26.0.exe",
-  "sha256": "a8f5ce2c99194874d251acc00b4adb901cbb3453aa3bee0fe20052c31cc58a39",
-  "notes": "Animations BLOCBOOK : Nettoyé (vert, gain du jour qui monte), Booké (bleu), palier atteint (doré). BLOCBOOK lu toutes les 5 secondes"
+  "version": "0.26.1",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.26.1.exe",
+  "sha256": "681acd3f2c90ddf76611edc591f03daebf881c40545c30d38e4f3f24573f319c",
+  "notes": "Répondre aux notifications : envoi direct quand l'app le permet (WhatsApp, Teams…), sinon la bonne conversation s'ouvre avec ta réponse collée"
 }
