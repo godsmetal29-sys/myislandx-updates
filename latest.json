@@ -1,6 +1,6 @@
 {
-  "version": "0.24.0",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.24.0.exe",
-  "sha256": "abb318b8fd5b34820e57c1368e60a16be17051212be2c51929f74b8988ba5780",
-  "notes": "Nouvelle fenêtre de réglages (sombre, Affichages et Blocs séparés), Google Agenda en un clic avec ajout rapide d'événements, téléphone via Lien avec Windows, bloc Aujourd'hui avec les appels, app plus légère"
+  "version": "0.24.1",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.24.1.exe",
+  "sha256": "8f65defcbf183f07c68c7eaa37e38acef0e7b024315c95545094fe123cd3f49a",
+  "notes": "Barre du bas : jusqu'à 10 blocs avec l'île en taille Grande"
 }
