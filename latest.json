@@ -1,6 +1,6 @@
 {
-  "version": "0.27.1",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.27.1.exe",
-  "sha256": "6b6443f3f90d38a3df70e5e109abff2eadda8569e01f66fe7476295fcc8d1be8",
-  "notes": "Raccourci pour ouvrir l'île : Ctrl+Maj+Espace"
+  "version": "0.27.2",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.27.2.exe",
+  "sha256": "96ace66e586989006c39e057ebecbdaa0056d11631464dee7d38182dc7fa3b67",
+  "notes": "Animations BLOCBOOK immédiates (vérification chaque seconde) et aussi pour une fiche créée puis bookée tout de suite"
 }
