@@ -1,6 +1,6 @@
 {
-  "version": "0.25.6",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.25.6.exe",
-  "sha256": "0e04f8274f7e513a8692a44d0079756ef82b3813966e6fb7f7d8ea73725908fb",
-  "notes": "BLOCBOOK : montants avec les cents (comme BLOCBOOK), plus d'arrondi"
+  "version": "0.26.0",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.26.0.exe",
+  "sha256": "a8f5ce2c99194874d251acc00b4adb901cbb3453aa3bee0fe20052c31cc58a39",
+  "notes": "Animations BLOCBOOK : Nettoyé (vert, gain du jour qui monte), Booké (bleu), palier atteint (doré). BLOCBOOK lu toutes les 5 secondes"
 }
