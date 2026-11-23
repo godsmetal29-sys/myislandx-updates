@@ -1,6 +1,6 @@
 {
-  "version": "0.24.1",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.24.1.exe",
-  "sha256": "8f65defcbf183f07c68c7eaa37e38acef0e7b024315c95545094fe123cd3f49a",
-  "notes": "Barre du bas : jusqu'à 10 blocs avec l'île en taille Grande"
+  "version": "0.24.2",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.24.2.exe",
+  "sha256": "74d0a140c2676929cca454829dbccb991f0e8df8e47c83f78b036686335816e8",
+  "notes": "Barre du bas : icônes resserrées quand il y a beaucoup de blocs (plus rien de coupé)"
 }
