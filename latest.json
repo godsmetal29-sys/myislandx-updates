@@ -1,6 +1,6 @@
 {
-  "version": "0.27.4",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.27.4.exe",
-  "sha256": "e541a3dbc12f4f2385d15cf7c0f845a1c10162bfb722fa4dba0bf94161b00d64",
-  "notes": "BLOCBOOK : le service (ex. « Unité murale simple-zone, Sécheuse ») au lieu de « Fiche avec lien »"
+  "version": "0.27.5",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.27.5.exe",
+  "sha256": "990c7cdf559dde174aec6ccccf0e165b1c2f6fab3f00dba9dfc2f2ee418655a2",
+  "notes": "Appels : la pilule se ferme dès que tu raccroches"
 }
