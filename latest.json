@@ -1,6 +1,6 @@
 {
-  "version": "0.24.4",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.24.4.exe",
-  "sha256": "72ab3d8d3489660c06508102ac6c32764a95e93f6bc9226b2038f4b280a09cea",
-  "notes": "Texte plus net (ClearType), rappel BLOCBOOK : pilule de 10 secondes, une fois par rappel, mise en page corrigée"
+  "version": "0.24.5",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.24.5.exe",
+  "sha256": "157d370de66338bce2ad2b80a679e1f8a0d3317821f87f5ae6b430fe0e0cf7d0",
+  "notes": "Aujourd'hui et Ma journée fusionnés : un bloc Aujourd'hui avec onglets Maintenant / Bilan (Bilan tout seul après 18:00)"
 }
