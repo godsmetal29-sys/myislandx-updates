@@ -1,6 +1,6 @@
 {
-  "version": "0.27.0",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.27.0.exe",
-  "sha256": "53a9d122b73fd6398a51211979cc7193c3c958432c225aac6ba6837a68c03320",
-  "notes": "Copie intelligente (numéro → Appeler, adresse → Itinéraire, e-mail → Écrire, lien → Ouvrir) ; raccourci Ctrl+Alt+Espace pour ouvrir l'île, flèches pour changer de bloc"
+  "version": "0.27.1",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.27.1.exe",
+  "sha256": "6b6443f3f90d38a3df70e5e109abff2eadda8569e01f66fe7476295fcc8d1be8",
+  "notes": "Raccourci pour ouvrir l'île : Ctrl+Maj+Espace"
 }
