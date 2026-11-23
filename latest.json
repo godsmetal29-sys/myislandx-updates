@@ -1,6 +1,6 @@
 {
-  "version": "0.26.1",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.26.1.exe",
-  "sha256": "681acd3f2c90ddf76611edc591f03daebf881c40545c30d38e4f3f24573f319c",
-  "notes": "Répondre aux notifications : envoi direct quand l'app le permet (WhatsApp, Teams…), sinon la bonne conversation s'ouvre avec ta réponse collée"
+  "version": "0.26.2",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.26.2.exe",
+  "sha256": "f0f532836345bc3108663c7b352f62c72b2c07b89a9d9b71e2e7df46b5a2e17c",
+  "notes": "BLOCBOOK : RDV du jour = ceux encore à faire (comme BLOCBOOK), les nettoyés comptés à part"
 }
