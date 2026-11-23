@@ -1,6 +1,6 @@
 {
-  "version": "0.25.1",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.25.1.exe",
-  "sha256": "c183a68bd1b969cdb922505f01472c3cedc970fc7d2747ae6ff1337d60bfb7c8",
-  "notes": "Bloc Téléphone : derniers SMS, nom et batterie du téléphone (via Lien avec Windows)"
+  "version": "0.25.2",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.25.2.exe",
+  "sha256": "dd227d867227fa80afb163b7cb28bfbd1f1e54be5296afd70b2c84b2fcda2018",
+  "notes": "Agenda : ajoute un événement en une phrase (« rappeler Karim demain 15h ») avec aperçu ; musique : pilule « Reprise » au raccrochage ; bloc Téléphone redessiné"
 }
