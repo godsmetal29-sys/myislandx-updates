@@ -19,6 +19,7 @@ L'application lit, **sans jamais les envoyer** :
 - les applications qui utilisent le micro, la caméra ou le partage d'écran (pour les voyants) ;
 - le presse-papiers (historique gardé **en mémoire seulement**, jamais enregistré) ;
 - les captures d'écran du dossier Images › Captures d'écran.
+- tes derniers SMS, le nom et la batterie de ton téléphone, tels que Lien avec Windows les garde sur ton PC (copie temporaire effacée aussitôt après lecture).
 
 ## Ce qui sort de ton PC
 
