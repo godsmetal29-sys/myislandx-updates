@@ -1,6 +1,6 @@
 {
-  "version": "0.25.5",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.25.5.exe",
-  "sha256": "b756ab78acf48cdd1f2f3c2ae8d6e2798d158cb745c713fbeb49fe8bf6013794",
-  "notes": "Ouvrir : la bonne app ou le bon fichier (plus le dossier Documents) ; boutons du téléphone exécutés sans ouvrir Lien avec Windows"
+  "version": "0.25.6",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.25.6.exe",
+  "sha256": "0e04f8274f7e513a8692a44d0079756ef82b3813966e6fb7f7d8ea73725908fb",
+  "notes": "BLOCBOOK : montants avec les cents (comme BLOCBOOK), plus d'arrondi"
 }
