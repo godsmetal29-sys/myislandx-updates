@@ -1,6 +1,6 @@
 {
-  "version": "0.25.3",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.25.3.exe",
-  "sha256": "3ec4e20912030619d5a73687ed8f38590cad5bb3edd2bcd09870905dc0eb1b00",
-  "notes": "Code SMS à copier (pilule 30 s), plusieurs comptes Google (perso + travail) dans l'agenda"
+  "version": "0.25.4",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.25.4.exe",
+  "sha256": "81bbc8ac6f254ad1f310b9ca7bfa662b57ec3e1a56c6b8ec2ea3378abfd01441",
+  "notes": "Téléphone : boutons Ne pas déranger / sourdine / musique / audio comme dans Lien avec Windows, lecture du nom et de la batterie améliorée, bouton Téléphone possible dans l'accueil"
 }
