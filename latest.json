@@ -1,6 +1,6 @@
 {
-  "version": "0.24.7",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.24.7.exe",
-  "sha256": "1cd9dff7ee46154a99ef5b7611020de7636b80c32ae845081924b6ce75e0702a",
-  "notes": "Bilan : cartes ajustées (plus rien de coupé), BLOCBOOK : adresse au lieu de « Sans nom »"
+  "version": "0.25.0",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.25.0.exe",
+  "sha256": "39967ce410f50c382fcc814bfb2fb66b2b56bed2a2e61612b62310d9f6e65f3d",
+  "notes": "Nouveaux réglages « Studio » : fenêtre sombre, recherche, aperçu en direct de l'île fermée et du bloc (avec ta pochette)"
 }
