@@ -1,6 +1,6 @@
 {
-  "version": "0.24.3",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.24.3.exe",
-  "sha256": "2c45fa56086ba8b615ff8ff233828c84174ef790ffbb0639af26fdd82dec172b",
-  "notes": "Bords de l'île lisses (plus d'escalier), pilule de rappel BLOCBOOK refaite, nouvelles icônes"
+  "version": "0.24.4",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.24.4.exe",
+  "sha256": "72ab3d8d3489660c06508102ac6c32764a95e93f6bc9226b2038f4b280a09cea",
+  "notes": "Texte plus net (ClearType), rappel BLOCBOOK : pilule de 10 secondes, une fois par rappel, mise en page corrigée"
 }
