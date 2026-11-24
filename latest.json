@@ -1,6 +1,6 @@
 {
-  "version": "0.27.12",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.27.12.exe",
-  "sha256": "2ab18874373e23e36c03d0c500b17e7958c2e0443575dc13e783738764d42240",
-  "notes": "Bloc BLOCBOOK : « RDV · N faits » sans texte coupé"
+  "version": "0.27.13",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.27.13.exe",
+  "sha256": "6447df5322633efbd81fb88c4dbaa677752093606080093a3c49bf6a49c3001d",
+  "notes": "Bloc BLOCBOOK : description retirée en haut"
 }
