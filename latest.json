@@ -1,6 +1,6 @@
 {
-  "version": "0.30.4",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.30.4.exe",
-  "sha256": "8d417aef7383763bde4c8c2e85c3cdacf859a0e5617ca67ce21383f1f9019b6e",
-  "notes": "Tâches : boutons − 15 min / + 15 min visibles"
+  "version": "0.30.5",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.30.5.exe",
+  "sha256": "a9b8f63f020b47727c5fa7070b8b62b86e755d79a07982177fbeecd21e7b4637",
+  "notes": "Icônes : météo dessinée (plus de rectangle), icônes absentes remplacées par un symbole"
 }
