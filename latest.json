@@ -1,6 +1,6 @@
 {
-  "version": "0.30.3",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.30.3.exe",
-  "sha256": "c0da8c80e3cf747cec1ddaf370d1cdc1cb60f2c59166a2047f2f1dc9f1cb90c2",
-  "notes": "Tâches : vrai écran de modification (texte, heure, enregistrer, supprimer)"
+  "version": "0.30.4",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.30.4.exe",
+  "sha256": "8d417aef7383763bde4c8c2e85c3cdacf859a0e5617ca67ce21383f1f9019b6e",
+  "notes": "Tâches : boutons − 15 min / + 15 min visibles"
 }
