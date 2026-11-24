@@ -1,6 +1,6 @@
 {
-  "version": "0.27.6",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.27.6.exe",
-  "sha256": "4192679a1c9017805b2445031ccf61ab05c24aecddd382c20de3a098db45d779",
-  "notes": "Réglages › Notifications : liste des apps nettoyée (plus d'identifiants illisibles ni de « Mise à jour 0.x »)"
+  "version": "0.27.7",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.27.7.exe",
+  "sha256": "0762fb76c91cba0dd5dcc3d8a2da0678972e2a8bd94458379dc4d1a7d455bfe8",
+  "notes": "Résumé de la journée : 23:59 possible, la pilule reste après minuit, et ouvrir le Bilan en journée ne l'empêche plus"
 }
