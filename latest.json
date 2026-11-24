@@ -1,6 +1,6 @@
 {
-  "version": "0.27.5",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.27.5.exe",
-  "sha256": "990c7cdf559dde174aec6ccccf0e165b1c2f6fab3f00dba9dfc2f2ee418655a2",
-  "notes": "Appels : la pilule se ferme dès que tu raccroches"
+  "version": "0.27.6",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.27.6.exe",
+  "sha256": "4192679a1c9017805b2445031ccf61ab05c24aecddd382c20de3a098db45d779",
+  "notes": "Réglages › Notifications : liste des apps nettoyée (plus d'identifiants illisibles ni de « Mise à jour 0.x »)"
 }
