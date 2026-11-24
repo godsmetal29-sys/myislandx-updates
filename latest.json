@@ -1,6 +1,6 @@
 {
-  "version": "0.28.0",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.28.0.exe",
-  "sha256": "04c4b5e3cb631132983a3bc627d3f3ef513c6f7d0dcb49ba7fe04a7b9f26e07f",
-  "notes": "Nouveau bloc BLOCBOOK : anneau lumineux de l'objectif et ta journée en frise (RDV faits / à faire, rappels)"
+  "version": "0.29.0",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.29.0.exe",
+  "sha256": "cb58b10352bd4fd08b43df4623215f1adea5a5e7a88551901998319ae1b8561a",
+  "notes": "Ma journée de travail : horaires jour par jour, rappel Monitask au début, « bonne nuit » à la fin ; pause conseillée (15 min après 2 h d'appels) ; bloc BLOCBOOK sans description"
 }
