@@ -1,6 +1,6 @@
 {
-  "version": "0.30.0",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.30.0.exe",
-  "sha256": "c40998a711c840b130d007286db07f2edb73a9d9261970d5ff8b7069a52a0d2a",
-  "notes": "Bloc BLOCBOOK : boutons ✓ Nettoyé (avec confirmation) et ↗ Ouvrir ; BLOCBOOK rechargé automatiquement dans Chrome ; alerte si Chrome annule le nettoyage"
+  "version": "0.30.1",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.30.1.exe",
+  "sha256": "b7d0eb8f6bd4a9939b460a826cebcab25b944212f1f3b034a16bfebf81269104",
+  "notes": "Tâches : texte complet, modifier, supprimer, bouton Ouvrir / Appeler ; le rappel reste affiché jusqu'à ta réponse"
 }
