@@ -1,6 +1,6 @@
 {
-  "version": "0.27.8",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.27.8.exe",
-  "sha256": "b488cf971b65834d082424ea9ab33c946bed678898e52576b9cd1d16b240cce8",
-  "notes": "Téléphone : lecture du nom et de la batterie améliorée (fenêtre réduite), diagnostic corrigé"
+  "version": "0.27.9",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.27.9.exe",
+  "sha256": "ab3470bf76bd90ed48a47f97b831f36a5a3ec5035375cef3548e05a57ad2f338",
+  "notes": "Gain du jour : compte les nettoyages confirmés aujourd'hui (heure du clic), pas la date du rendez-vous"
 }
