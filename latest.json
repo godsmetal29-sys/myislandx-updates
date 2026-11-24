@@ -1,6 +1,6 @@
 {
-  "version": "0.27.10",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.27.10.exe",
-  "sha256": "0a3113fd2cc698948044d0e5e7dd2936c74bc095da1c1b0bf0aaf9c673372282",
-  "notes": "Bilan : survole la case BLOCBOOK pour voir quelles fiches comptent dans le gain du jour"
+  "version": "0.27.11",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.27.11.exe",
+  "sha256": "70093833bbb0eb3ab46ec97df1e0ef2ff4ba598e003c5a399a072df690e60509",
+  "notes": "Bilan : clique sur la case BLOCBOOK pour voir le détail du gain du jour"
 }
