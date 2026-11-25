@@ -1,6 +1,6 @@
 {
-  "version": "0.30.5",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.30.5.exe",
-  "sha256": "a9b8f63f020b47727c5fa7070b8b62b86e755d79a07982177fbeecd21e7b4637",
-  "notes": "Icônes : météo dessinée (plus de rectangle), icônes absentes remplacées par un symbole"
+  "version": "0.30.6",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.30.6.exe",
+  "sha256": "19b164cce52beb72c140201e833b53caf2cbb798923e15b35dba1e7f754dde8e",
+  "notes": "Fin de journée : pilule plus claire (boutons ronds) ; Monitask : lecture / pause détectée par ses boutons"
 }
