@@ -1,6 +1,6 @@
 {
-  "version": "0.32.2",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.32.2.exe",
-  "sha256": "cad7fbd06acc5137dbeaa64399cfe7d709610aaef73b72221928f33d96128c47",
-  "notes": "Claude : nouveau choix « Tout le PC » (part de ton dossier utilisateur, modifie les fichiers sans demander mais demande avant chaque commande)."
+  "version": "0.33.0",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.33.0.exe",
+  "sha256": "e4407e5f7d6a5be29aceb1506d64df82903495fe3018931f1dc9189cf6fc2401",
+  "notes": "Île de dev : mise à jour d'une app en un clic, MySQL (tableau de bord, sauvegarde de la nuit, restauration), alertes sur le téléphone (ntfy), résumé du matin, mémoire de chaque app sur 24 h avec alerte de fuite, lien public temporaire vers une app."
 }
