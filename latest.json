@@ -1,6 +1,6 @@
 {
-  "version": "0.31.0",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.31.0.exe",
-  "sha256": "876d22d1507448930cd32768dadbaa7353182afd4f19d5cf8a43e1e3d2b6ac4f",
-  "notes": "Nouveau : profil du PC (Travail / Développement / Personnel). PC de développement : page Serveur pm2 et alertes, Claude Code, commande island, protection du serveur, sauvegarde de la nuit, rappel Git et page Projets. PC de travail : état du serveur dans la rotation et alertes à distance."
+  "version": "0.32.0",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.32.0.exe",
+  "sha256": "fb5a62853deedfb8bb32ab8077a3dfb5c6d8301534130d66b60834e2b2ab3571",
+  "notes": "Île développeur : Accueil, Système, Réseau, Serveurs (pm2 en détail, Docker, services, logs en direct) et Claude (autorisations depuis l'île, tâches en arrière-plan, file, étapes en direct, Réparer, continuer sur le téléphone avec QR code)."
 }
