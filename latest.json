@@ -1,6 +1,6 @@
 {
-  "version": "0.32.1",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.32.1.exe",
-  "sha256": "0f38029b46c41f0fa9f6ef1eb419bf2cd227845a240917786248a6ae555e62c3",
-  "notes": "Claude sur le téléphone comme ta méthode : ouvrir Claude dans PowerShell avec Remote Control, ou rapatrier une conversation du cloud (teleport). Sessions PowerShell reconnues, Voir ramène la bonne fenêtre, PC gardé éveillé pendant que Claude travaille."
+  "version": "0.32.2",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.32.2.exe",
+  "sha256": "cad7fbd06acc5137dbeaa64399cfe7d709610aaef73b72221928f33d96128c47",
+  "notes": "Claude : nouveau choix « Tout le PC » (part de ton dossier utilisateur, modifie les fichiers sans demander mais demande avant chaque commande)."
 }
