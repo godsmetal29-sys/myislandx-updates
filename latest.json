@@ -1,6 +1,6 @@
 {
-  "version": "0.33.0",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.33.0.exe",
-  "sha256": "e4407e5f7d6a5be29aceb1506d64df82903495fe3018931f1dc9189cf6fc2401",
-  "notes": "Île de dev : mise à jour d'une app en un clic, MySQL (tableau de bord, sauvegarde de la nuit, restauration), alertes sur le téléphone (ntfy), résumé du matin, mémoire de chaque app sur 24 h avec alerte de fuite, lien public temporaire vers une app."
+  "version": "0.33.1",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.33.1.exe",
+  "sha256": "ce64e1cbd8af63df146d5be38894272b4d53e75ef9df61d4ea62e46d6738cfe6",
+  "notes": "Appels Dialpad reconnus avec la nouvelle barre d'appel. Agenda : lien de la réunion trouvé partout (Meet, Zoom, Teams, description), clic sur l'événement pour rejoindre, bouton Rejoindre dans le rappel. Tuile Serveur toujours visible dans Outils."
 }
