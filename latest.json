@@ -1,6 +1,6 @@
 {
-  "version": "0.33.2",
-  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.33.2.exe",
-  "sha256": "a3218f3add705d3607341e7153b8af88aea8bea4454e02fd0a4cf727c5f352c7",
-  "notes": "Accueil de l'île dev : courbes plus grandes, lecture et écriture du disque, et une rangée MySQL et Sauvegarde (plus de vide en bas)."
+  "version": "0.33.3",
+  "url": "https://raw.githubusercontent.com/godsmetal29-sys/myislandx-updates/main/MyIslandX-0.33.3.exe",
+  "sha256": "ef2bb610afb305ab5e27c13e1fc77617a5044ae294f778911251b84e03f202dd",
+  "notes": "Appels Dialpad : l'île retrouve la nouvelle app Dialpad (nom souple, programme qui utilise le micro). Outils : tuiles Serveur et Projets."
 }
